@@ -1,4 +1,4 @@
-<img align="right" src="./assets/perfil-github.png" />
+<img align="right" width=350 src="./assets/perfil-github.png" />
 <h2>Opa! Bom te ver aqui.</h2>
 <h3> Me chamo Rafael, sou desenvolvedor Full Stack e aqui veremos alguns projetos dessa trilha.</h3>
 <h4> Ps.: Como quero o próximo projeto sempre melhor que o último, ela não acabará.</h4>
