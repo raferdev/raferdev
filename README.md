@@ -1,7 +1,7 @@
 <img align="right" width=350 src="./assets/perfil-github.png" />
 <h2>Opa! Bom te ver aqui.</h2>
 <h3> Me chamo Rafael, sou desenvolvedor Full Stack e aqui veremos alguns projetos dessa trilha.</h3>
-<h4> Ps.: Como quero o próximo projeto sempre melhor que o último, ela não acabará.</h4>
+<h3> Ps.: Como quero o próximo projeto sempre melhor que o último, ela não acabará.</h3>
 <p>🔭 Descobrindo cada dia mais.</p>
 <p>☕ Tomando mais café também!</p>
 <h1></h1>
