@@ -17,8 +17,8 @@
 <code><img alt="NodeJS" title="NodeJS" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <h1></h1>
 <div align="top">
-<img height="auto" width="460" src="https://github-readme-stats.vercel.app/api?username=rafael-f&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="auto" width="386" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-f&layout=compact&langs_count=16&theme=dracula"/>
+<img height="auto" width="455" src="https://github-readme-stats.vercel.app/api?username=rafael-f&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="auto" width="383" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-f&layout=compact&langs_count=16&theme=dracula"/>
 <div>
   <h1></h1>
   <a href="https://www.linkedin.com/in/rafael-fe/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
