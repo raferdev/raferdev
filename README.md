@@ -14,6 +14,12 @@ Sonho: :bulb: Fazer algo novo, que ajude o mundo.
 Atualmente: :telescope: Descobrindo cada dia mais. :coffee: Tomando mais café também!</p>
 <h1></h1>
 <div align='center'>
+<img width='480' align='right' src="profile-3d-contrib/profile-night-rainbow.svg"/>
+<img height="auto" width="330" src="https://github-readme-stats.vercel.app/api?username=rafaelfernandev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="auto" width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelfernandev&layout=compact&langs_count=16&theme=dracula"/>
+</div>
+<h1></h1>
+<div align='center'>
 <a href="https://styled-components.com/">
 <code><img alt="Styled Components" title="Styled Components" height="40" src="https://avatars.githubusercontent.com/u/20658825?s=200&v=4"></code>
 </a>
@@ -51,12 +57,6 @@ Atualmente: :telescope: Descobrindo cada dia mais. :coffee: Tomando mais café t
 <code><img alt="Redis" title="Redis" height="40" src="https://github.com/github/explore/blob/main/topics/docker/docker.png"></code>
 </a>
   </div>
-<h1></h1>
-<div align='center'>
-<img width='480' align='right' src="profile-3d-contrib/profile-night-rainbow.svg"/>
-<img height="auto" width="330" src="https://github-readme-stats.vercel.app/api?username=rafaelfernandev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="auto" width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelfernandev&layout=compact&langs_count=16&theme=dracula"/>
-</div>
   <h1></h1>
   <div align='center'>
   <a href="https://www.linkedin.com/in/rafaelfernandev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
