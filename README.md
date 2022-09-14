@@ -1,7 +1,7 @@
 ##
 <img align="left" width=300 src="./assets/github-profile.png" />
 
-## Opa!! Bom te ver aqui. :balloon:
+## Opa!! Bom te ver aqui. :two_hearts:
 <h4>Prazer,</h4>
 meu nome é Rafael, sou desenvolvedor Full Stack/Devops e aqui você encontra alguns registros dessa trilha.
 E como eu quero o próximo projeto sempre melhor que o último ela não acabará.
