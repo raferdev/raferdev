@@ -23,8 +23,8 @@ Atualmente: :telescope: Descobrindo cada dia mais. :coffee: Tomando mais café t
 <h1></h1>
 <img width='480' align='right' style = "border-radius:50%" src="profile-3d-contrib/profile-night-rainbow.svg"/>
 <div>
-<img height="auto" width="310" src="https://github-readme-stats.vercel.app/api?username=rafaelfernandev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="auto" width="310" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelfernandev&layout=compact&langs_count=16&theme=dracula"/>
+<img height="auto" width="320" src="https://github-readme-stats.vercel.app/api?username=rafaelfernandev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="auto" width="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelfernandev&layout=compact&langs_count=16&theme=dracula"/>
 <div>
   <h1></h1>
   <a href="https://www.linkedin.com/in/rafaelfernandev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
