@@ -21,7 +21,7 @@ Atualmente: :telescope: Descobrindo cada dia mais. :coffee: Tomando mais café t
 <code><img alt="NodeJS" title="NodeJS" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img alt="Jest" title="Jest" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jest/jest.png"></code>
 <h1></h1>
-<img width='530' align='right' style = "border-radius:50%" src="profile-3d-contrib/profile-night-rainbow.svg"/>
+<img width='520' align='right' style = "border-radius:50%" src="profile-3d-contrib/profile-night-rainbow.svg"/>
 <div>
 <img height="auto" width="300" src="https://github-readme-stats.vercel.app/api?username=rafaelfernandev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <img height="auto" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelfernandev&layout=compact&langs_count=16&theme=dracula"/>
