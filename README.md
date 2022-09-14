@@ -1,5 +1,5 @@
 ##
-<img align="left" width=330 src="./assets/github-profile.png" />
+<img align="left" width=320 src="./assets/github-profile.png" />
 
 ## :tada: Opa!! Bom te ver aqui. :balloon: :gift: :two_hearts:
 <h4>Prazer,</h4>
@@ -23,8 +23,8 @@ Atualmente: :telescope: Descobrindo cada dia mais. :coffee: Tomando mais café t
 <h1></h1>
 <div align="top">
 <img width='630' align='right' style = "border-radius:50%" src="profile-3d-contrib/profile-night-rainbow.svg"/>
-<img height="auto" width="350" src="https://github-readme-stats.vercel.app/api?username=rafaelfernandev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="auto" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelfernandev&layout=compact&langs_count=16&theme=dracula"/>
+<img height="auto" width="320" src="https://github-readme-stats.vercel.app/api?username=rafaelfernandev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="auto" width="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelfernandev&layout=compact&langs_count=16&theme=dracula"/>
 <div>
   <h1></h1>
   <a href="https://www.linkedin.com/in/rafaelfernandev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
