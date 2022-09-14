@@ -13,11 +13,9 @@ Sonho: :bulb: Fazer algo novo, que ajude o mundo.
 
 Atualmente: :telescope: Descobrindo cada dia mais. :coffee: Tomando mais café também!</p>
 <h1></h1>
-<div align='center'>
 <img width='480' align='right' src="profile-3d-contrib/profile-night-rainbow.svg"/>
 <img height="auto" width="330" src="https://github-readme-stats.vercel.app/api?username=rafaelfernandev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <img height="auto" width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelfernandev&layout=compact&langs_count=16&theme=dracula"/>
-</div>
 <h1></h1>
 <div align='center'>
 <a href="https://styled-components.com/">
