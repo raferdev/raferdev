@@ -1,5 +1,5 @@
 ##
-<img align="left" width=300 src="./assets/github-profile.jpg" />
+<img align="left" width=300 src="./assets/perfil-github.jpg" />
 
 ## Opa!! Bom te ver aqui. :two_hearts:
 <h4>Prazer,</h4>
@@ -14,8 +14,8 @@ Sonho: :bulb: Fazer algo novo, que ajude o mundo.
 Atualmente: :telescope: Descobrindo cada dia mais. :coffee: Tomando mais café também!</p>
 <h1></h1>
 <img width='480' align='right' src="profile-3d-contrib/profile-night-rainbow.svg"/>
-<img height="auto" width="330" src="https://github-readme-stats.vercel.app/api?username=rafaelfernandev&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-<img height="auto" width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelfernandev&layout=compact&langs_count=16&theme=highcontrast"/>
+<img height="auto" width="330" src="https://github-readme-stats.vercel.app/api?username=rafaelfernandev&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+<img height="auto" width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelfernandev&layout=compact&langs_count=16&theme=cobalt"/>
 <h1></h1>
 <div align='center'>
 <a href="https://styled-components.com/">
