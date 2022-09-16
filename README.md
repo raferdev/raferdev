@@ -1,5 +1,5 @@
 ##
-<img align="left" width=300 src="./assets/github-profile.png" />
+<img align="left" width=300 src="./assets/github-profile.jpg" />
 
 ## Opa!! Bom te ver aqui. :two_hearts:
 <h4>Prazer,</h4>
