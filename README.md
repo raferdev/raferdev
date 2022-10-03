@@ -14,8 +14,8 @@ Sonho: :bulb: Fazer algo novo, que ajude o mundo.
 Atualmente: :telescope: Descobrindo cada dia mais. :coffee: Tomando mais café também!</p>
 <h1></h1>
 <img width='480' align='left' src="profile-3d-contrib/profile-night-rainbow.svg"/>
-<img height="auto" width="330" src="https://github-readme-stats.vercel.app/api?username=rafaelfernandev&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true&title_color=304458&bg_color=161719&text_color=ffffff"/>
-<img height="auto" width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelfernandev&layout=compact&langs_count=16&theme=cobalt&title_color=304458&bg_color=161719&text_color=ffffff"/>
+<img height="auto" width="330" src="https://github-readme-stats.vercel.app/api?username=raferdev&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true&title_color=304458&bg_color=161719&text_color=ffffff"/>
+<img height="auto" width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raferdev&layout=compact&langs_count=16&theme=cobalt&title_color=304458&bg_color=161719&text_color=ffffff"/>
 <h1></h1>
 <div align='center'>
 <a href="https://styled-components.com/">
@@ -58,5 +58,5 @@ Atualmente: :telescope: Descobrindo cada dia mais. :coffee: Tomando mais café t
   <h1></h1>
   <div align='center'>
   <a href="https://www.linkedin.com/in/rafaelfernandev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-   <a href="mailto:rafaelfernandev@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+   <a href="mailto:raferdev@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   </div>
