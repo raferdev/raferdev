@@ -1,17 +1,17 @@
 ##
 <img align="left" width=300 src="./assets/github-perfil4.jpg" />
 
-## Opa!! Bom te ver aqui. :two_hearts:
-<h4>Prazer,</h4>
-meu nome é Rafael, sou desenvolvedor Full Stack/Devops e aqui você encontra alguns registros dessa trilha.
-E como eu quero o próximo projeto sempre melhor que o último ela não acabará.
+## Hello!! Glad to see you here. :two_hearts:
+<h4>It's a pleasure,</h4>
+my name is Rafael, i'm Full Stack/Devops and here you will found some records of this trail.
+And how i want this projects always better than the lattest this trail never ends.
 
 ##
-Hobbies: :guitar: Violão. :runner: Corrida. :microscope: Física.
+Hobbies: :guitar: Acoustic Guitar. :runner: Running. :microscope: Physics.
 
-Sonho: :bulb: Fazer algo novo, que ajude o mundo.
+Dream: :bulb: Do something new, something which help people.
 
-Atualmente: :telescope: Descobrindo cada dia mais. :coffee: Tomando mais café também!</p>
+Now: :telescope: Every day discovering something brand new. :coffee: Drinking more coffee too!</p>
 <h1></h1>
 <img width='480' align='left' src="profile-3d-contrib/profile-night-rainbow.svg"/>
 <img height="auto" width="330" src="https://github-readme-stats.vercel.app/api?username=raferdev&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true&title_color=304458&bg_color=161719&text_color=ffffff"/>
