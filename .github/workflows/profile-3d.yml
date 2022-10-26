@@ -1,4 +1,4 @@
-name: GitHub-Profile-3D-Contrib
+name: GitHub-Profile-3D-Contrib2
 
 on:
   schedule: # 03:00 JST == 18:00 UTC
@@ -8,10 +8,12 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: generate-github-profile-3d-contrib
+    name: GitHub-Profile-3D-Contrib2
     steps:
       - uses: actions/checkout@v2
-      - uses: raferdev/github-profile-3d-contrib@2.0
+      - name: GitHub-Profile-3D-Contrib2
+        uses: raferdev/github-profile-3d-contrib@2.0
+
         env:
           GITHUB_TOKEN: ${{ secrets.TOKEN }}
           USERNAME: ${{ github.repository_owner }}
