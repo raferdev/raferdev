@@ -15,7 +15,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: GitHub-Profile-3D-Contrib2
-        uses: raferdev/github-profile-3d-contrib@3.0
+        uses: raferdev/github-profile-3d-contrib@3.1
 
         env:
           GITHUB_TOKEN: ${{ secrets.TOKEN }}
