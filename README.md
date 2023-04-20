@@ -3,10 +3,12 @@
 
 <details>
 <summary>About</summary>
+ 
 ##
+ 
 <img align="left" width=300 src="./assets/github-perfil.jpg" />
 
- ##
+##
   
 <h4>It's a pleasure,</h4>
 my name is Rafael, i'm Full Stack/Devops and here you will found some records of this trail.
