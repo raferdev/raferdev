@@ -6,7 +6,7 @@
  
 ##
  
-<img align="left" width=300 src="./assets/github-perfil.jpg" />
+<img align="left" width="300" src="./assets/github-perfil.jpg" />
 
 ##
   
