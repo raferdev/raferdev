@@ -27,8 +27,8 @@ Now: :telescope: Every day discovering something brand new. :coffee: Drinking mo
 <summary>Coding Dashboard</summary>
 
 <img width='480' align='left' src="profile-3d-contrib/profile-night-rainbow.svg"/>
-<img height="auto" width="330" src="https://github-readme-stats.vercel.app/api?username=imraferdev&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true&title_color=526570&bg_color=161719&text_color=ffffff"/>
-<img height="auto" width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imraferdev&layout=compact&langs_count=16&theme=cobalt&title_color=526570&bg_color=161719&text_color=ffffff"/>
+<img height="auto" width="330" src="https://github-readme-stats.vercel.app/api?username=raferdev&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true&title_color=526570&bg_color=161719&text_color=ffffff"/>
+<img height="auto" width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raferdev&layout=compact&langs_count=16&theme=cobalt&title_color=526570&bg_color=161719&text_color=ffffff"/>
 </details>
 
 <details>
