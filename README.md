@@ -2,20 +2,28 @@
 
 <p>
 <div>
+
 <a href="https://stackoverflow.com/users/20442134/rafael-fernandes?tab=profile">
 <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>
 <a href="https://rafer.dev/"><img src="./assets/raferdev-badge.jpg" /></a>
 <a href="https://www.npmjs.com/~raferdev" target="_blank"><img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/rafaelfernandev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
 
-</p>
+Lover of open source and open source tools 
 
-### Lover of open source and open source tools
+----
 
 [Why should whe colaborate and be kind?](https://www.youtube.com/watch?v=mScpHTIi-kM)
 
-##
+<a><img src="https://wakatime.com/badge/user/ac875cb4-d4ee-453f-b6fc-44cb2103c59d.svg"/></a>
+
+</div>
+
+----
+
+</p>
+
+
 
 <details>
 <summary>About</summary>
