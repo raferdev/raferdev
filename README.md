@@ -36,7 +36,7 @@ And how i want this projects always better than the lattest this trail never end
  
 ##
  
-<img width='580' align='right' src="profile-3d-contrib/profile-night-rainbow.svg"/>
+<img width='480' align='right' src="profile-3d-contrib/profile-night-rainbow.svg"/>
 <img height="auto" width="330" src="https://github-readme-stats.vercel.app/api?username=raferdev&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true&title_color=526570&bg_color=161719&text_color=ffffff"/>
 <img height="auto" width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raferdev&layout=compact&langs_count=16&theme=cobalt&title_color=526570&bg_color=161719&text_color=ffffff"/>
 
