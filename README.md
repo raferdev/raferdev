@@ -1,5 +1,3 @@
-----
-
 <div align="end">
 <a href="https://rafer.dev/"><img src="./assets/raferdev-badge.jpg" /></a>
 <a href="https://stackoverflow.com/users/20442134/rafael-fernandes?tab=profile">
@@ -65,5 +63,3 @@ And how i want this projects always better than the lattest this trail never end
  <div align="end"> 
  <a><img src="https://wakatime.com/badge/user/ac875cb4-d4ee-453f-b6fc-44cb2103c59d.svg"/></a>
  </div>
- 
-----
