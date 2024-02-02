@@ -1,5 +1,5 @@
 <div align="end">
-<a href="https://rafer.dev/"><img src="./assets/raferdev-badge.jpg" /></a>
+<a href="https://rafer.dev/"><img src="./assets/raferdev-badge-animated.gif" /></a>
 <a href="https://stackoverflow.com/users/20442134/rafael-fernandes?tab=profile">
 <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>
 <a href="https://www.npmjs.com/~raferdev" target="_blank"><img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" target="_blank"></a>
