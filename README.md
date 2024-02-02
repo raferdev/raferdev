@@ -42,22 +42,16 @@ And how i want this projects always better than the lattest this trail never end
 </details>
 
 <details>
-  <summary>Contact Me</summary>
+  <summary>More</summary>
  
-##
-  <div>
-   <a href="mailto:raferdev@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+#### Lover of open source and open source tools 
 
-  </div>
-  
+[Why should whe colaborate and be kind (in all aspects)?](https://www.youtube.com/watch?v=mScpHTIi-kM)
+
 ##
 
 </details>
  
- #### Lover of open source and open source tools 
-
-[Why should whe colaborate and be kind (in all aspects)?](https://www.youtube.com/watch?v=mScpHTIi-kM)
-
 ##
 
  <div align="end"> 
