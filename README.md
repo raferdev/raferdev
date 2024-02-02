@@ -13,7 +13,7 @@
  
 ##
  
-<img align="right" width="250" src="./assets/github-perfil.png" />
+<img align="right" width="250" src="./assets/github-perfil-white.png" />
   
 <h4>It's a pleasure,</h4>
 my name is Rafael, i'm Full Stack/Devops and here you will found some records of this trail.
