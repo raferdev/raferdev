@@ -7,28 +7,6 @@
 </div>
 
 ##
-
-<details>
-<summary>About</summary>
- 
-##
- 
-<img align="right" width="250" src="./assets/github-perfil-white.png" />
-  
-<h4>It's a pleasure,</h4>
-my name is Rafael, i'm Full Stack/Devops and here you will found some records of this trail.
-And how i want this projects always better than the lattest this trail never ends.
-
-##
-- Hobbies: :guitar: Acoustic Guitar. :runner: Running. :microscope: Physics.
-
-- Dream: :bulb: Do something new, something which help people.
-
-- Now: :telescope: Every day discovering something brand new. :coffee: Drinking more coffee too!</p>
-<h1></h1>
-
-</details>
-
 <details>
 <summary>Coding Dashboard</summary>
  
