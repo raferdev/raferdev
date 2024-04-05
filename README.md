@@ -8,7 +8,7 @@
 
 ##
 <details>
-<summary>Coding Dashboard</summary>
+<summary>Dashboard</summary>
  
 ##
  
@@ -20,7 +20,7 @@
 </details>
 
 <details>
-  <summary>More</summary>
+  <summary>Info</summary>
  
 #### Lover of open source and open source tools 
 
