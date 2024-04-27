@@ -1,4 +1,4 @@
-<div align="end">
+<div align="center">
 <a href="https://rafer.dev/"><img src="./assets/raferdev-badge-animated.gif" /></a>
 <a href="https://stackoverflow.com/users/20442134/rafael-fernandes?tab=profile">
 <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>
@@ -7,31 +7,28 @@
 </div>
 
 ##
-<details>
-<summary>Dashboard</summary>
- 
-##
- 
-<img width='480' align='right' src="profile-3d-contrib/profile-night-rainbow.svg"/>
-<img height="auto" width="330" src="https://github-readme-stats.vercel.app/api?username=raferdev&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true&title_color=526570&bg_color=161719&text_color=ffffff"/>
-<img height="auto" width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raferdev&layout=compact&langs_count=16&theme=cobalt&title_color=526570&bg_color=161719&text_color=ffffff"/>
 
-##
-</details>
-
-<details>
-  <summary>Info</summary>
+<div align="center">
  
-#### Lover of open source and open source tools 
+Lover of open source and open source tools.
 
 [Why should whe colaborate and be kind (in all aspects)?](https://www.youtube.com/watch?v=mScpHTIi-kM)
+</div>
 
 ##
 
+<details>
+<summary>Stats</summary>
+
+<div align="center">
+<a><img src="https://wakatime.com/badge/user/ac875cb4-d4ee-453f-b6fc-44cb2103c59d.svg"/></a>
+<div>
+<img height="auto" width="495" src="https://github-readme-stats.vercel.app/api?username=raferdev&show_icons=true&theme=gradient&include_all_commits=true&count_private=true"/>
+</div>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=raferdev&show_icons=true&theme=gradient"/>
+</div>
+
+
+##
 </details>
- 
-##
 
- <div align="end"> 
- <a><img src="https://wakatime.com/badge/user/ac875cb4-d4ee-453f-b6fc-44cb2103c59d.svg"/></a>
- </div>
